@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2020-06-20T17:57:39.674Z" agent="5.0 (Windows)" etag="_On_l0vaPiKzbyXDckx9" version="13.3.0" type="github"><diagram id="aH4F3tKvDQe8ermNPX3X" name="Page-1">3ZTLTuswEIafJstWuTRQlm2Bc5BAILFArCo3njrWcTyW45KUp2eSOE2iggQSq5NNxt9cbM8/SZBsivqPZSZ/QA4qiENeB8l1EMfRIlrSqyHHjlymiw4IK7kPGsCzfAcPQ08PkkM5CXSIykkzhRlqDZmbMGYtVtOwParproYJOAPPGVPn9EVyl3d0mYYD/wtS5P3OUeg9BeuDPShzxrEaoeQmSDYW0XVWUW9ANc3r+9Ll3X7hPR3MgnbfSUiN3YXZ3aNN3h+LWZW+bhOYxV2VN6YO/sL+sO7Yd4DObRpTFm2r1m9gnaQG3bMdqCcspZOoyb9D57CgANU41iz7JyweNN+gQtuWSvbtM6qxUlI0uQ4NUVaaTsK9rIFOvW63XPU07AnZuXPNAKya68a3HLNyLqQDNpdI6zaqJKNjRgtK9TelnaH+soXRSRiaaMACnD1SiE9YXHotj/2Q+nU1jEZ04Vk+HoseMj+O4lR7UIwML9oPBEz/CwEVFKgVZ2amxRytIFSByqhHYzUVCtwqpcX2IgxN/Yu6plNd0090TePPdF1e/VhXWg4ffesb/TqTmw8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-06-20T18:00:07.633Z" agent="5.0 (Windows)" etag="rbJTQTq427d0fv1_rtOG" version="13.3.0" type="github">
+  <diagram id="aH4F3tKvDQe8ermNPX3X" name="Page-1">
+    <mxGraphModel dx="1422" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5prb0cIOr3zOm-w5Y_3e-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://docs.gitea.io/images/gitea.png;" parent="1" vertex="1">
+          <mxGeometry x="550" y="80" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="5prb0cIOr3zOm-w5Y_3e-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://lemonldap-ng.org/welcome/images/logo_llng_600px.png;" parent="1" vertex="1">
+          <mxGeometry x="520" y="400" width="247.62" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="f4b3K8QyoGEFcEAACif--2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.kshuttle.io/s/app/img/logo.svg;" vertex="1" parent="1">
+          <mxGeometry x="260" y="280" width="218.57" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="f4b3K8QyoGEFcEAACif--3" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="260" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f4b3K8QyoGEFcEAACif--4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://avatars2.githubusercontent.com/u/15859888?s=280&amp;v=4;" vertex="1" parent="1">
+          <mxGeometry x="260" y="140" width="200" height="200" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
