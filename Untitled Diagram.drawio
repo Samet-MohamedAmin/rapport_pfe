@@ -1,29 +1,44 @@
-<mxfile host="app.diagrams.net" modified="2020-06-20T18:03:58.012Z" agent="5.0 (Windows)" etag="eLvrmsrd8uw_oUJRIzSq" version="13.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-06-20T21:34:08.160Z" agent="5.0 (Windows)" etag="CKhOWHSw7EB6LR2PW4n0" version="13.3.0" type="github">
   <diagram id="aH4F3tKvDQe8ermNPX3X" name="Page-1">
-    <mxGraphModel dx="1422" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="1891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="5prb0cIOr3zOm-w5Y_3e-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://docs.gitea.io/images/gitea.png;" parent="1" vertex="1">
-          <mxGeometry x="550" y="80" width="120" height="120" as="geometry" />
+          <mxGeometry x="470" y="60" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="5prb0cIOr3zOm-w5Y_3e-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://lemonldap-ng.org/welcome/images/logo_llng_600px.png;" parent="1" vertex="1">
-          <mxGeometry x="80" y="480" width="247.62" height="90" as="geometry" />
+          <mxGeometry x="670" y="-80" width="247.62" height="90" as="geometry" />
         </mxCell>
         <mxCell id="f4b3K8QyoGEFcEAACif--2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.kshuttle.io/s/app/img/logo.svg;" vertex="1" parent="1">
-          <mxGeometry x="260" y="280" width="218.57" height="70" as="geometry" />
+          <mxGeometry x="740" y="200" width="218.57" height="70" as="geometry" />
         </mxCell>
         <mxCell id="f4b3K8QyoGEFcEAACif--3" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="10" y="260" width="30" height="60" as="geometry" />
+          <mxGeometry x="10" y="120" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f4b3K8QyoGEFcEAACif--4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://avatars2.githubusercontent.com/u/15859888?s=280&amp;v=4;" vertex="1" parent="1">
-          <mxGeometry x="270" y="120" width="80" height="80" as="geometry" />
+          <mxGeometry x="215" y="170" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="f4b3K8QyoGEFcEAACif--6" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;imageAspect=0;image=https://opendistro.github.io/for-elasticsearch-docs/assets/images/logo.svg;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="500" y="350" width="295.71" height="90" as="geometry" />
         </mxCell>
         <mxCell id="f4b3K8QyoGEFcEAACif--10" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://camo.githubusercontent.com/3158a212dc08b03fbb5661301266b75974bc2eea/68747470733a2f2f64316a6e783962613873366a39722e636c6f756466726f6e742e6e65742f626c6f672f77702d636f6e74656e742f75706c6f6164732f323031372f31312f454c4b2e706e67;" vertex="1" parent="1">
           <mxGeometry x="550.53" y="455" width="194.65" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="f4b3K8QyoGEFcEAACif--11" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="300" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="f4b3K8QyoGEFcEAACif--12" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.linuxfoundation.org/wp-content/uploads/2018/01/logo_prometheus.png;" vertex="1" parent="1">
+          <mxGeometry x="929.09" y="530" width="179.59" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="f4b3K8QyoGEFcEAACif--13" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.packet.com/media/pages/images/a8849b052492b5106526b2331e526138/xCMw-grafana.png;" vertex="1" parent="1">
+          <mxGeometry x="950" y="350" width="109.09" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="f4b3K8QyoGEFcEAACif--15" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-images-1.medium.com/max/1600/1*-9mb3AKnKdcL_QD3CMnthQ.png;" vertex="1" parent="1">
+          <mxGeometry x="270" y="480" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="f4b3K8QyoGEFcEAACif--16" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.shadowandy.net/wp/wp-content/uploads/docker.png;" vertex="1" parent="1">
+          <mxGeometry x="180" y="-40.620000000000005" width="180" height="160.62" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
