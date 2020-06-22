@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-22T08:19:36.724Z" agent="5.0 (Windows)" etag="5Lk6GAoNJMuBsjMveVPt" version="13.3.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-06-22T08:29:17.770Z" agent="5.0 (Windows)" etag="BYBKzg63chbCTlRrG9dN" version="13.3.0" type="github" pages="3">
   <diagram id="aH4F3tKvDQe8ermNPX3X" name="Page-1">
     <mxGraphModel dx="1397" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -405,7 +405,7 @@
           <mxGeometry x="395" y="560" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Wy9dD18MKTQgpZdWzEBM-31" value="&lt;div&gt;Les composants&lt;/div&gt;&lt;div&gt;de stockage Rook&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="Wy9dD18MKTQgpZdWzEBM-1">
-          <mxGeometry x="565" y="370" width="110" height="30" as="geometry" />
+          <mxGeometry x="560" y="370" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Wy9dD18MKTQgpZdWzEBM-32" value="" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/computers/Server_Rack_128x128.png" vertex="1" parent="Wy9dD18MKTQgpZdWzEBM-1">
           <mxGeometry x="520" y="410" width="50" height="60" as="geometry" />
