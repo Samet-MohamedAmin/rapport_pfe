@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-23T15:44:42.948Z" agent="5.0 (Windows)" etag="1d0o5OdUcBCdQUJxrXd2" version="13.3.0" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2020-06-23T16:04:47.107Z" agent="5.0 (Windows)" etag="TqOmwAl8wNs1YV5DuZbK" version="13.3.0" type="github" pages="9">
   <diagram id="aH4F3tKvDQe8ermNPX3X" name="global diagram">
     <mxGraphModel dx="2031" dy="1130" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1283,7 +1283,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="zMngDvcwma3SCp9EZvXr" name="Page-8">
-    <mxGraphModel dx="3282" dy="931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4390" dy="1582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="BbT-HDJMjBwJf1ezDNln-0" />
         <mxCell id="BbT-HDJMjBwJf1ezDNln-1" parent="BbT-HDJMjBwJf1ezDNln-0" />
@@ -2066,6 +2066,104 @@
         </mxCell>
         <mxCell id="tedhjKxLvhKSOX9k4whn-97" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="BbT-HDJMjBwJf1ezDNln-1">
           <mxGeometry x="-1055" y="3020" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tedhjKxLvhKSOX9k4whn-98" value="Diagramme activité saisir un secret" style="shape=umlFrame;whiteSpace=wrap;html=1;connectable=0;width=140;height=50;" vertex="1" parent="BbT-HDJMjBwJf1ezDNln-1">
+          <mxGeometry x="-1400" y="3160" width="670" height="710" as="geometry" />
+        </mxCell>
+        <mxCell id="tedhjKxLvhKSOX9k4whn-99" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="BbT-HDJMjBwJf1ezDNln-1">
+          <mxGeometry x="-1055" y="3190" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tedhjKxLvhKSOX9k4whn-100" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="BbT-HDJMjBwJf1ezDNln-1" source="tedhjKxLvhKSOX9k4whn-99" target="tedhjKxLvhKSOX9k4whn-121">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1040" y="3290" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tedhjKxLvhKSOX9k4whn-108" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;" edge="1" parent="BbT-HDJMjBwJf1ezDNln-1" source="tedhjKxLvhKSOX9k4whn-126" target="tedhjKxLvhKSOX9k4whn-113">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1040" y="3620" as="targetPoint" />
+            <mxPoint x="-1040" y="3560" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="-1065" y="3800" />
+              <mxPoint x="-1065" y="3800" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tedhjKxLvhKSOX9k4whn-113" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="BbT-HDJMjBwJf1ezDNln-1">
+          <mxGeometry x="-1080" y="3800" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tedhjKxLvhKSOX9k4whn-114" value="secret existant" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="BbT-HDJMjBwJf1ezDNln-1">
+          <mxGeometry x="-1220" y="3380" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="tedhjKxLvhKSOX9k4whn-115" value="non" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;" edge="1" parent="BbT-HDJMjBwJf1ezDNln-1" source="tedhjKxLvhKSOX9k4whn-114" target="tedhjKxLvhKSOX9k4whn-117">
+          <mxGeometry x="-0.3331" relative="1" as="geometry">
+            <mxPoint x="-990" y="3510" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1055" y="3415" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tedhjKxLvhKSOX9k4whn-116" value="oui" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;" edge="1" parent="BbT-HDJMjBwJf1ezDNln-1" source="tedhjKxLvhKSOX9k4whn-114" target="tedhjKxLvhKSOX9k4whn-119">
+          <mxGeometry x="-0.6593" relative="1" as="geometry">
+            <mxPoint x="-1130" y="3590" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1280" y="3415" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tedhjKxLvhKSOX9k4whn-117" value="Créer le secret shuttle" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="BbT-HDJMjBwJf1ezDNln-1">
+          <mxGeometry x="-1115" y="3480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tedhjKxLvhKSOX9k4whn-118" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;" edge="1" parent="BbT-HDJMjBwJf1ezDNln-1" source="tedhjKxLvhKSOX9k4whn-117" target="tedhjKxLvhKSOX9k4whn-119">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1020" y="3670" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1180" y="3500" />
+              <mxPoint x="-1180" y="3500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tedhjKxLvhKSOX9k4whn-119" value="Sélectionner le secret shuttle" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="BbT-HDJMjBwJf1ezDNln-1">
+          <mxGeometry x="-1350" y="3480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tedhjKxLvhKSOX9k4whn-120" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="BbT-HDJMjBwJf1ezDNln-1" source="tedhjKxLvhKSOX9k4whn-119" target="tedhjKxLvhKSOX9k4whn-126">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1180" y="3710" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-1280" y="3660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tedhjKxLvhKSOX9k4whn-121" value="Choisir un secret shuttle" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="BbT-HDJMjBwJf1ezDNln-1">
+          <mxGeometry x="-1085" y="3280" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tedhjKxLvhKSOX9k4whn-122" value="non" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;" edge="1" parent="BbT-HDJMjBwJf1ezDNln-1" source="tedhjKxLvhKSOX9k4whn-121" target="tedhjKxLvhKSOX9k4whn-124">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="-790" y="3310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tedhjKxLvhKSOX9k4whn-123" value="oui" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;" edge="1" parent="BbT-HDJMjBwJf1ezDNln-1" source="tedhjKxLvhKSOX9k4whn-121" target="tedhjKxLvhKSOX9k4whn-114">
+          <mxGeometry x="-0.2903" relative="1" as="geometry">
+            <mxPoint x="-930" y="3390" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tedhjKxLvhKSOX9k4whn-124" value="Générer un secret aléatoire" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="BbT-HDJMjBwJf1ezDNln-1">
+          <mxGeometry x="-910" y="3390" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tedhjKxLvhKSOX9k4whn-125" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;" edge="1" parent="BbT-HDJMjBwJf1ezDNln-1" source="tedhjKxLvhKSOX9k4whn-124" target="tedhjKxLvhKSOX9k4whn-126">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1000" y="3610" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-850" y="3580" />
+              <mxPoint x="-850" y="3580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tedhjKxLvhKSOX9k4whn-126" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="BbT-HDJMjBwJf1ezDNln-1">
+          <mxGeometry x="-1105" y="3640" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
