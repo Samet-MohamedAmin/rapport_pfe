@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-23T12:32:55.660Z" agent="5.0 (Windows)" etag="UC1uPfpjmK3OGQAh2Pxx" version="13.3.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2020-06-23T12:59:53.035Z" agent="5.0 (Windows)" etag="TIpj6PUAzpwZ7jH2sne2" version="13.3.0" type="github" pages="7">
   <diagram id="aH4F3tKvDQe8ermNPX3X" name="global diagram">
     <mxGraphModel dx="1422" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -875,7 +875,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="FhCjP44LRGQQRx-N19te" name="Page-7">
+  <diagram id="FhCjP44LRGQQRx-N19te" name="usecase_duplicity_restore">
     <mxGraphModel dx="2181" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="PMlcm3V3n_hOYNaDzGFI-0" />
@@ -889,7 +889,7 @@
         <mxCell id="dPG9StJnBAuNSzJ9k4_G-2" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;connectable=0;" vertex="1" parent="PMlcm3V3n_hOYNaDzGFI-1">
           <mxGeometry x="80" y="150" width="890" height="1010" as="geometry" />
         </mxCell>
-        <mxCell id="dPG9StJnBAuNSzJ9k4_G-3" value="Lancer un Bacup / Restore" style="ellipse;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;" vertex="1" parent="PMlcm3V3n_hOYNaDzGFI-1">
+        <mxCell id="dPG9StJnBAuNSzJ9k4_G-3" value="Lancer un Restore par duplicity" style="ellipse;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;" vertex="1" parent="PMlcm3V3n_hOYNaDzGFI-1">
           <mxGeometry x="245" y="190" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="dPG9StJnBAuNSzJ9k4_G-4" value="Remplir les configuration du chart" style="ellipse;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;" vertex="1" parent="PMlcm3V3n_hOYNaDzGFI-1">
