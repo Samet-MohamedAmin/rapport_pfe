@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-23T15:42:33.365Z" agent="5.0 (Windows)" etag="8MAtLCFsvdYO80NLHk9j" version="13.3.0" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2020-06-23T15:43:24.179Z" agent="5.0 (Windows)" etag="dXt3dPuld1c9MxDLONfR" version="13.3.0" type="github" pages="9">
   <diagram id="aH4F3tKvDQe8ermNPX3X" name="global diagram">
     <mxGraphModel dx="2031" dy="1130" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1881,7 +1881,7 @@
         <mxCell id="tedhjKxLvhKSOX9k4whn-59" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="BbT-HDJMjBwJf1ezDNln-1">
           <mxGeometry x="-1055" y="1740" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tedhjKxLvhKSOX9k4whn-60" value="Diagramme activité remplir les configuration shuttle" style="shape=umlFrame;whiteSpace=wrap;html=1;connectable=0;width=140;height=50;" vertex="1" parent="BbT-HDJMjBwJf1ezDNln-1">
+        <mxCell id="tedhjKxLvhKSOX9k4whn-60" value="Diagramme activité remplir les configuration&amp;nbsp; postgresql" style="shape=umlFrame;whiteSpace=wrap;html=1;connectable=0;width=140;height=50;" vertex="1" parent="BbT-HDJMjBwJf1ezDNln-1">
           <mxGeometry x="-1400" y="1920" width="670" height="550" as="geometry" />
         </mxCell>
         <mxCell id="tedhjKxLvhKSOX9k4whn-61" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="BbT-HDJMjBwJf1ezDNln-1">
@@ -1917,11 +1917,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tedhjKxLvhKSOX9k4whn-67" value="Choisir le secret shuttle" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="BbT-HDJMjBwJf1ezDNln-1">
+        <mxCell id="tedhjKxLvhKSOX9k4whn-67" value="Choisir le secret postgresql" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="BbT-HDJMjBwJf1ezDNln-1">
           <mxGeometry x="-1180" y="2140" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="tedhjKxLvhKSOX9k4whn-68" value="Choisir le secret licensekey" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="BbT-HDJMjBwJf1ezDNln-1">
-          <mxGeometry x="-1020" y="2140" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tedhjKxLvhKSOX9k4whn-69" value="Choisir le volume persistant" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="BbT-HDJMjBwJf1ezDNln-1">
           <mxGeometry x="-860" y="2140" width="120" height="40" as="geometry" />
@@ -1944,16 +1941,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tedhjKxLvhKSOX9k4whn-73" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;" edge="1" parent="BbT-HDJMjBwJf1ezDNln-1" source="tedhjKxLvhKSOX9k4whn-68">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1040" y="2310" as="targetPoint" />
-            <mxPoint x="-1120" y="2180" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="-960" y="2245" />
-              <mxPoint x="-1040" y="2245" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="tedhjKxLvhKSOX9k4whn-74" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;" edge="1" parent="BbT-HDJMjBwJf1ezDNln-1" target="tedhjKxLvhKSOX9k4whn-67">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1279.9714285714285" y="2140" as="targetPoint" />
@@ -1961,16 +1948,6 @@
             <Array as="points">
               <mxPoint x="-1040" y="2100" />
               <mxPoint x="-1120" y="2100" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tedhjKxLvhKSOX9k4whn-75" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;" edge="1" parent="BbT-HDJMjBwJf1ezDNln-1" target="tedhjKxLvhKSOX9k4whn-68">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1119.9714285714285" y="2140" as="targetPoint" />
-            <mxPoint x="-1039.971428571428" y="2060" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="-1040" y="2100" />
-              <mxPoint x="-960" y="2100" />
             </Array>
           </mxGeometry>
         </mxCell>
