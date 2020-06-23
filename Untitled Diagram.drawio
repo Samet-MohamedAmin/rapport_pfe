@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-23T14:09:41.938Z" agent="5.0 (Windows)" etag="uzEXswGmOJlgYChmGsMR" version="13.3.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2020-06-23T14:10:50.848Z" agent="5.0 (Windows)" etag="d7XTmx01QUiOiqLfOElm" version="13.3.0" type="github" pages="7">
   <diagram id="aH4F3tKvDQe8ermNPX3X" name="global diagram">
     <mxGraphModel dx="2031" dy="1130" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1192,11 +1192,11 @@
         <mxCell id="dPG9StJnBAuNSzJ9k4_G-2" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;connectable=0;" parent="PMlcm3V3n_hOYNaDzGFI-1" vertex="1">
           <mxGeometry x="80" y="150" width="890" height="1010" as="geometry" />
         </mxCell>
-        <mxCell id="dPG9StJnBAuNSzJ9k4_G-3" value="Lancer un Restore par duplicity" style="ellipse;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;" parent="PMlcm3V3n_hOYNaDzGFI-1" vertex="1">
-          <mxGeometry x="245" y="190" width="180" height="70" as="geometry" />
+        <mxCell id="dPG9StJnBAuNSzJ9k4_G-3" value="Lancer un Restore par duplicity" style="ellipse;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;strokeColor=none;" parent="PMlcm3V3n_hOYNaDzGFI-1" vertex="1">
+          <mxGeometry x="170" y="200" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="dPG9StJnBAuNSzJ9k4_G-4" value="Remplir les configuration du chart" style="ellipse;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;" parent="PMlcm3V3n_hOYNaDzGFI-1" vertex="1">
-          <mxGeometry x="510" y="305" width="210" height="70" as="geometry" />
+          <mxGeometry x="425" y="290" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="dPG9StJnBAuNSzJ9k4_G-5" value="" style="edgeStyle=none;html=1;endArrow=none;verticalAlign=bottom;" parent="PMlcm3V3n_hOYNaDzGFI-1" source="dPG9StJnBAuNSzJ9k4_G-1" target="dPG9StJnBAuNSzJ9k4_G-3" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -1210,23 +1210,17 @@
             <mxPoint x="330" y="465" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dPG9StJnBAuNSzJ9k4_G-7" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;" parent="PMlcm3V3n_hOYNaDzGFI-1" source="dPG9StJnBAuNSzJ9k4_G-3" target="dPG9StJnBAuNSzJ9k4_G-4" edge="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="190" y="140" as="sourcePoint" />
-            <mxPoint x="350" y="140" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="dPG9StJnBAuNSzJ9k4_G-8" value="Choisir le&amp;nbsp; Namespace" style="ellipse;whiteSpace=wrap;html=1;" parent="PMlcm3V3n_hOYNaDzGFI-1" vertex="1">
-          <mxGeometry x="110" y="460" width="150" height="60" as="geometry" />
+          <mxGeometry x="135" y="460" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dPG9StJnBAuNSzJ9k4_G-9" value="Remplir les configurations de duplicity" style="ellipse;whiteSpace=wrap;html=1;" parent="PMlcm3V3n_hOYNaDzGFI-1" vertex="1">
           <mxGeometry x="200" y="590" width="157.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="dPG9StJnBAuNSzJ9k4_G-10" value="Remplir par le formulaire" style="ellipse;whiteSpace=wrap;html=1;" parent="PMlcm3V3n_hOYNaDzGFI-1" vertex="1">
-          <mxGeometry x="450" y="460" width="195" height="60" as="geometry" />
+          <mxGeometry x="435" y="450" width="195" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dPG9StJnBAuNSzJ9k4_G-11" value="Remplir la configuration YAML" style="ellipse;whiteSpace=wrap;html=1;" parent="PMlcm3V3n_hOYNaDzGFI-1" vertex="1">
-          <mxGeometry x="760" y="230" width="175" height="60" as="geometry" />
+          <mxGeometry x="734.5" y="420" width="175" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dPG9StJnBAuNSzJ9k4_G-12" value="" style="endArrow=none;html=1;" parent="PMlcm3V3n_hOYNaDzGFI-1" source="dPG9StJnBAuNSzJ9k4_G-10" target="dPG9StJnBAuNSzJ9k4_G-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1355,6 +1349,12 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="-40" y="380" as="sourcePoint" />
             <mxPoint x="120" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XnO9KaXX_SXXO1darybn-16" value="&amp;lt;&amp;lt;extends&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;" edge="1" parent="PMlcm3V3n_hOYNaDzGFI-1" source="dPG9StJnBAuNSzJ9k4_G-4" target="dPG9StJnBAuNSzJ9k4_G-3">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="300" y="360" as="sourcePoint" />
+            <mxPoint x="460" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
