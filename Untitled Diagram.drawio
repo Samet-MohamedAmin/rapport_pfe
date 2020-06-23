@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-23T10:25:29.873Z" agent="5.0 (Windows)" etag="rOZIflFCsUJPjpjq2_-l" version="13.3.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2020-06-23T12:00:43.299Z" agent="5.0 (Windows)" etag="zU9bz20nzcJRt4_11MrG" version="13.3.0" type="github" pages="5">
   <diagram id="aH4F3tKvDQe8ermNPX3X" name="global diagram">
     <mxGraphModel dx="1422" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -720,7 +720,7 @@
         <mxCell id="yba-h_eHYNDpvuq4gxqm-0" />
         <mxCell id="yba-h_eHYNDpvuq4gxqm-1" parent="yba-h_eHYNDpvuq4gxqm-0" />
         <mxCell id="1dkJb7RUYbs84yG0_1tP-0" value="&lt;div&gt;UseCase Lancer application shuttle&lt;/div&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;width=150;height=40;connectable=0;" vertex="1" parent="yba-h_eHYNDpvuq4gxqm-1">
-          <mxGeometry x="-80" y="80" width="1080" height="1200" as="geometry" />
+          <mxGeometry x="-80" y="80" width="1080" height="1150" as="geometry" />
         </mxCell>
         <mxCell id="1dkJb7RUYbs84yG0_1tP-2" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;shadow=0;perimeterSpacing=0;strokeWidth=1;" vertex="1" parent="yba-h_eHYNDpvuq4gxqm-1">
           <mxGeometry x="-20" y="195" width="30" height="60" as="geometry" />
