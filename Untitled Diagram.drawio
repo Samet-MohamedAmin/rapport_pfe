@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-23T16:18:44.556Z" agent="5.0 (Windows)" etag="L-RVVGvpOIEuFVf1jBSb" version="13.3.0" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2020-06-23T16:25:33.274Z" agent="5.0 (Windows)" etag="Fs3potwdS6unIO5sao_2" version="13.3.0" type="github" pages="9">
   <diagram id="aH4F3tKvDQe8ermNPX3X" name="global diagram">
     <mxGraphModel dx="2031" dy="1130" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1282,8 +1282,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="zMngDvcwma3SCp9EZvXr" name="Page-8">
-    <mxGraphModel dx="2821" dy="1759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+  <diagram id="zMngDvcwma3SCp9EZvXr" name="diagram_activity_parts">
+    <mxGraphModel dx="3045" dy="1891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="BbT-HDJMjBwJf1ezDNln-0" />
         <mxCell id="BbT-HDJMjBwJf1ezDNln-1" parent="BbT-HDJMjBwJf1ezDNln-0" />
