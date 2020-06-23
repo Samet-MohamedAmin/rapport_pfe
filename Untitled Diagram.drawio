@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-23T09:24:36.001Z" agent="5.0 (Windows)" etag="ln9HzZJPTSFcdU4mqlWS" version="13.3.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2020-06-23T09:25:51.522Z" agent="5.0 (Windows)" etag="AkBKG41KmXN4Ag-Mebq2" version="13.3.0" type="github" pages="5">
   <diagram id="aH4F3tKvDQe8ermNPX3X" name="global diagram">
     <mxGraphModel dx="1422" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -825,7 +825,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xmLFpagXXAfNJPnR_G1M-23" value="Choisir le volume persistent" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="yba-h_eHYNDpvuq4gxqm-1">
-          <mxGeometry x="570" y="820" width="140" height="70" as="geometry" />
+          <mxGeometry x="660" y="750" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="xmLFpagXXAfNJPnR_G1M-24" value="&amp;lt;&amp;lt;extends&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;" edge="1" parent="yba-h_eHYNDpvuq4gxqm-1" source="xmLFpagXXAfNJPnR_G1M-23" target="xmLFpagXXAfNJPnR_G1M-4">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -843,6 +843,21 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="593.6081006272232" y="800.0465251737769" as="sourcePoint" />
             <mxPoint x="606.3196900898356" y="679.9629441465622" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xmLFpagXXAfNJPnR_G1M-27" value="Remplir les configuration d&#39;image" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="yba-h_eHYNDpvuq4gxqm-1">
+          <mxGeometry x="255.5" y="745" width="162" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xmLFpagXXAfNJPnR_G1M-28" value="&amp;lt;&amp;lt;extends&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;" edge="1" parent="yba-h_eHYNDpvuq4gxqm-1" source="xmLFpagXXAfNJPnR_G1M-27" target="xmLFpagXXAfNJPnR_G1M-4">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-220" y="770" as="sourcePoint" />
+            <mxPoint x="-60" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xmLFpagXXAfNJPnR_G1M-29" value="&amp;lt;&amp;lt;extends&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;" edge="1" parent="yba-h_eHYNDpvuq4gxqm-1" source="xmLFpagXXAfNJPnR_G1M-27" target="xmLFpagXXAfNJPnR_G1M-17">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="367.7485217094588" y="790.2339922297333" as="sourcePoint" />
+            <mxPoint x="403.3659228438423" y="629.9183871748291" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
