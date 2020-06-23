@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-23T14:21:17.133Z" agent="5.0 (Windows)" etag="nDlm8LLmCx68Qq5NEEdl" version="13.3.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2020-06-23T14:39:45.705Z" agent="5.0 (Windows)" etag="s8tjyLe7l1s3fUo6R5uD" version="13.3.0" type="github" pages="8">
   <diagram id="aH4F3tKvDQe8ermNPX3X" name="global diagram">
     <mxGraphModel dx="2031" dy="1130" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1277,6 +1277,92 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="200" y="340" as="sourcePoint" />
             <mxPoint x="360" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="zMngDvcwma3SCp9EZvXr" name="Page-8">
+    <mxGraphModel dx="769" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="BbT-HDJMjBwJf1ezDNln-0" />
+        <mxCell id="BbT-HDJMjBwJf1ezDNln-1" parent="BbT-HDJMjBwJf1ezDNln-0" />
+        <mxCell id="BbT-HDJMjBwJf1ezDNln-2" value="&lt;div&gt;Diagramme d&#39;activité&lt;/div&gt;&lt;div&gt;Usecase &quot;Lancer une application Shuttle&quot;&lt;br&gt;&lt;/div&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;width=200;height=60;connectable=0;" vertex="1" parent="BbT-HDJMjBwJf1ezDNln-1">
+          <mxGeometry x="40" y="20" width="760" height="3020" as="geometry" />
+        </mxCell>
+        <mxCell id="BbT-HDJMjBwJf1ezDNln-4" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="BbT-HDJMjBwJf1ezDNln-1">
+          <mxGeometry x="340" y="20" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BbT-HDJMjBwJf1ezDNln-5" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="BbT-HDJMjBwJf1ezDNln-4" parent="BbT-HDJMjBwJf1ezDNln-1" target="BbT-HDJMjBwJf1ezDNln-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="345" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BbT-HDJMjBwJf1ezDNln-6" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="BbT-HDJMjBwJf1ezDNln-1">
+          <mxGeometry x="640" y="750" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BbT-HDJMjBwJf1ezDNln-7" value="Accéder au dashboard Rancher" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="BbT-HDJMjBwJf1ezDNln-1">
+          <mxGeometry x="250" y="110" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BbT-HDJMjBwJf1ezDNln-8" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;" edge="1" source="BbT-HDJMjBwJf1ezDNln-7" parent="BbT-HDJMjBwJf1ezDNln-1" target="BbT-HDJMjBwJf1ezDNln-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BbT-HDJMjBwJf1ezDNln-9" value="S&#39;authentifier" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="BbT-HDJMjBwJf1ezDNln-1">
+          <mxGeometry x="200" y="270" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BbT-HDJMjBwJf1ezDNln-10" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="BbT-HDJMjBwJf1ezDNln-9" parent="BbT-HDJMjBwJf1ezDNln-1" target="BbT-HDJMjBwJf1ezDNln-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BbT-HDJMjBwJf1ezDNln-11" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="BbT-HDJMjBwJf1ezDNln-1">
+          <mxGeometry x="220" y="390" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BbT-HDJMjBwJf1ezDNln-12" value="Echec" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" source="BbT-HDJMjBwJf1ezDNln-11" parent="BbT-HDJMjBwJf1ezDNln-1" target="BbT-HDJMjBwJf1ezDNln-9">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="480" y="430" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="370" y="410" />
+              <mxPoint x="370" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BbT-HDJMjBwJf1ezDNln-13" value="Succès" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;" edge="1" source="BbT-HDJMjBwJf1ezDNln-11" parent="BbT-HDJMjBwJf1ezDNln-1" target="BbT-HDJMjBwJf1ezDNln-15">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="340" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BbT-HDJMjBwJf1ezDNln-15" value="Séléctionner l&#39;application shuttle à lancer" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="BbT-HDJMjBwJf1ezDNln-1">
+          <mxGeometry x="150" y="500" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BbT-HDJMjBwJf1ezDNln-16" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="BbT-HDJMjBwJf1ezDNln-15" parent="BbT-HDJMjBwJf1ezDNln-1" target="BbT-HDJMjBwJf1ezDNln-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BbT-HDJMjBwJf1ezDNln-20" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="BbT-HDJMjBwJf1ezDNln-1">
+          <mxGeometry x="130" y="630" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BbT-HDJMjBwJf1ezDNln-21" value="Remplir par formulaire" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;" edge="1" source="BbT-HDJMjBwJf1ezDNln-20" parent="BbT-HDJMjBwJf1ezDNln-1" target="BbT-HDJMjBwJf1ezDNln-25">
+          <mxGeometry x="-0.2" relative="1" as="geometry">
+            <mxPoint x="470" y="630" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BbT-HDJMjBwJf1ezDNln-22" value="Remplir les configurations YAML" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;" edge="1" source="BbT-HDJMjBwJf1ezDNln-20" parent="BbT-HDJMjBwJf1ezDNln-1">
+          <mxGeometry x="-0.7778" relative="1" as="geometry">
+            <mxPoint x="330" y="710" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BbT-HDJMjBwJf1ezDNln-25" value="Rempm" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="BbT-HDJMjBwJf1ezDNln-1">
+          <mxGeometry x="110" y="745" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BbT-HDJMjBwJf1ezDNln-26" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;" edge="1" source="BbT-HDJMjBwJf1ezDNln-25" parent="BbT-HDJMjBwJf1ezDNln-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
