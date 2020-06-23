@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-23T13:24:20.158Z" agent="5.0 (Windows)" etag="gDOmhHFhv4xjXlXdWvIi" version="13.3.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2020-06-23T13:30:31.356Z" agent="5.0 (Windows)" etag="HEi3tYv6-Py02mk4MaLq" version="13.3.0" type="github" pages="7">
   <diagram id="aH4F3tKvDQe8ermNPX3X" name="global diagram">
     <mxGraphModel dx="1422" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -959,7 +959,7 @@
           <mxGeometry x="136.25" y="778.75" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="dPG9StJnBAuNSzJ9k4_G-24" value="Choisir le secret de mot de passe" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="PMlcm3V3n_hOYNaDzGFI-1">
-          <mxGeometry x="750" y="802.5" width="160" height="67.5" as="geometry" />
+          <mxGeometry x="800" y="802.5" width="160" height="67.5" as="geometry" />
         </mxCell>
         <mxCell id="dPG9StJnBAuNSzJ9k4_G-25" value="Choisir un volume persistant existant" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="PMlcm3V3n_hOYNaDzGFI-1">
           <mxGeometry x="760" y="1005" width="140" height="70" as="geometry" />
