@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-23T14:16:32.180Z" agent="5.0 (Windows)" etag="6kXX3hScEtKZRRuxNPhi" version="13.3.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2020-06-23T14:16:42.031Z" agent="5.0 (Windows)" etag="OL8vk4Jzut_KDy39Kqb0" version="13.3.0" type="github" pages="7">
   <diagram id="aH4F3tKvDQe8ermNPX3X" name="global diagram">
     <mxGraphModel dx="2031" dy="1130" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1243,12 +1243,6 @@
         <mxCell id="dPG9StJnBAuNSzJ9k4_G-17" value="S&#39;authenfier" style="ellipse;whiteSpace=wrap;html=1;" parent="PMlcm3V3n_hOYNaDzGFI-1" vertex="1">
           <mxGeometry x="582.5" y="180" width="152" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="dPG9StJnBAuNSzJ9k4_G-18" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;" parent="PMlcm3V3n_hOYNaDzGFI-1" source="dPG9StJnBAuNSzJ9k4_G-3" target="dPG9StJnBAuNSzJ9k4_G-17" edge="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="370" y="80" as="sourcePoint" />
-            <mxPoint x="530" y="80" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="dPG9StJnBAuNSzJ9k4_G-19" value="Choisir le volume persistent" style="ellipse;whiteSpace=wrap;html=1;" parent="PMlcm3V3n_hOYNaDzGFI-1" vertex="1">
           <mxGeometry x="630" y="760" width="140" height="70" as="geometry" />
         </mxCell>
@@ -1355,6 +1349,12 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="300" y="360" as="sourcePoint" />
             <mxPoint x="460" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XnO9KaXX_SXXO1darybn-17" value="&amp;lt;&amp;lt;extends&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;" edge="1" parent="PMlcm3V3n_hOYNaDzGFI-1" source="dPG9StJnBAuNSzJ9k4_G-17" target="dPG9StJnBAuNSzJ9k4_G-3">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="230" y="360" as="sourcePoint" />
+            <mxPoint x="390" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
