@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-23T14:10:50.848Z" agent="5.0 (Windows)" etag="d7XTmx01QUiOiqLfOElm" version="13.3.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2020-06-23T14:16:32.180Z" agent="5.0 (Windows)" etag="6kXX3hScEtKZRRuxNPhi" version="13.3.0" type="github" pages="7">
   <diagram id="aH4F3tKvDQe8ermNPX3X" name="global diagram">
     <mxGraphModel dx="2031" dy="1130" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1192,7 +1192,7 @@
         <mxCell id="dPG9StJnBAuNSzJ9k4_G-2" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;connectable=0;" parent="PMlcm3V3n_hOYNaDzGFI-1" vertex="1">
           <mxGeometry x="80" y="150" width="890" height="1010" as="geometry" />
         </mxCell>
-        <mxCell id="dPG9StJnBAuNSzJ9k4_G-3" value="Lancer un Restore par duplicity" style="ellipse;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;strokeColor=none;" parent="PMlcm3V3n_hOYNaDzGFI-1" vertex="1">
+        <mxCell id="dPG9StJnBAuNSzJ9k4_G-3" value="Lancer un Restore par duplicity" style="ellipse;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;" parent="PMlcm3V3n_hOYNaDzGFI-1" vertex="1">
           <mxGeometry x="170" y="200" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="dPG9StJnBAuNSzJ9k4_G-4" value="Remplir les configuration du chart" style="ellipse;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;" parent="PMlcm3V3n_hOYNaDzGFI-1" vertex="1">
