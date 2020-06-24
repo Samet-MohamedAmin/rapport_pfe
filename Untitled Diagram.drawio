@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-24T09:15:43.123Z" agent="5.0 (Windows)" etag="s_dstBisXE7rCXzebped" version="13.3.1" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2020-06-24T14:56:44.592Z" agent="5.0 (Windows)" etag="s3QIUBEuOxsLTiSNaJiG" version="13.3.1" type="github" pages="11">
   <diagram id="aH4F3tKvDQe8ermNPX3X" name="global diagram">
     <mxGraphModel dx="1422" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -509,7 +509,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="tRa7wvgdVUZ7KtmapPzH" name="usecase_lancer_shuttle">
-    <mxGraphModel dx="2272" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2272" dy="825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="yba-h_eHYNDpvuq4gxqm-0" />
         <mxCell id="yba-h_eHYNDpvuq4gxqm-1" parent="yba-h_eHYNDpvuq4gxqm-0" />
@@ -556,22 +556,10 @@
           <mxGeometry x="360" y="450" width="195" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xmLFpagXXAfNJPnR_G1M-7" value="Remplir la configuration YAML" style="ellipse;whiteSpace=wrap;html=1;" parent="yba-h_eHYNDpvuq4gxqm-1" vertex="1">
-          <mxGeometry x="760" y="230" width="175" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="xmLFpagXXAfNJPnR_G1M-11" value="" style="endArrow=none;html=1;" parent="yba-h_eHYNDpvuq4gxqm-1" source="xmLFpagXXAfNJPnR_G1M-5" target="1dkJb7RUYbs84yG0_1tP-10" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="20" y="570" as="sourcePoint" />
-            <mxPoint x="70" y="520" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="xmLFpagXXAfNJPnR_G1M-12" value="" style="endArrow=none;html=1;" parent="yba-h_eHYNDpvuq4gxqm-1" source="xmLFpagXXAfNJPnR_G1M-7" target="1dkJb7RUYbs84yG0_1tP-10" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="620" y="350" as="sourcePoint" />
-            <mxPoint x="670" y="300" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="720" y="430" width="175" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xmLFpagXXAfNJPnR_G1M-15" value="Remplir les configuration owncloud" style="ellipse;whiteSpace=wrap;html=1;" parent="yba-h_eHYNDpvuq4gxqm-1" vertex="1">
-          <mxGeometry x="800" y="615" width="160" height="70" as="geometry" />
+          <mxGeometry x="790" y="610" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="xmLFpagXXAfNJPnR_G1M-17" value="Remplir les configurations Postgresql" style="ellipse;whiteSpace=wrap;html=1;" parent="yba-h_eHYNDpvuq4gxqm-1" vertex="1">
           <mxGeometry x="600" y="620" width="190" height="60" as="geometry" />
@@ -616,12 +604,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="80" y="1100" as="sourcePoint" />
             <mxPoint x="130" y="1050" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="xmLFpagXXAfNJPnR_G1M-61" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;" parent="yba-h_eHYNDpvuq4gxqm-1" source="xmLFpagXXAfNJPnR_G1M-5" target="xmLFpagXXAfNJPnR_G1M-3" edge="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="-140" y="460" as="sourcePoint" />
-            <mxPoint x="20" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xmLFpagXXAfNJPnR_G1M-62" value="Choisir un secret existant" style="ellipse;whiteSpace=wrap;html=1;" parent="yba-h_eHYNDpvuq4gxqm-1" vertex="1">
@@ -690,7 +672,7 @@
             <mxPoint x="810" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EQUzF2Mw7Nz3a8k3eftD-6" value="&amp;lt;&amp;lt;extends&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;entryX=0.974;entryY=0.333;entryDx=0;entryDy=0;entryPerimeter=0;" parent="yba-h_eHYNDpvuq4gxqm-1" source="xmLFpagXXAfNJPnR_G1M-15" target="xmLFpagXXAfNJPnR_G1M-5" edge="1">
+        <mxCell id="EQUzF2Mw7Nz3a8k3eftD-6" value="&amp;lt;&amp;lt;extends&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;" parent="yba-h_eHYNDpvuq4gxqm-1" source="xmLFpagXXAfNJPnR_G1M-15" target="xmLFpagXXAfNJPnR_G1M-5" edge="1">
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="780" y="470" as="sourcePoint" />
             <mxPoint x="940" y="470" as="targetPoint" />
@@ -726,11 +708,29 @@
             <mxPoint x="160" y="800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="GVd0ZIF7K6AYwYf4N1so-0" value="" style="endArrow=block;html=1;endFill=0;endSize=16;" edge="1" parent="yba-h_eHYNDpvuq4gxqm-1" source="xmLFpagXXAfNJPnR_G1M-5" target="1dkJb7RUYbs84yG0_1tP-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="610" as="sourcePoint" />
+            <mxPoint x="-60" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GVd0ZIF7K6AYwYf4N1so-1" value="" style="endArrow=block;html=1;endFill=0;endSize=16;" edge="1" parent="yba-h_eHYNDpvuq4gxqm-1" source="xmLFpagXXAfNJPnR_G1M-7" target="1dkJb7RUYbs84yG0_1tP-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="630" as="sourcePoint" />
+            <mxPoint x="-60" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GVd0ZIF7K6AYwYf4N1so-2" value="&amp;lt;&amp;lt;extends&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;" edge="1" parent="yba-h_eHYNDpvuq4gxqm-1" source="xmLFpagXXAfNJPnR_G1M-5" target="xmLFpagXXAfNJPnR_G1M-3">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-60" y="530" as="sourcePoint" />
+            <mxPoint x="100" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="aEUDkU5GMsL9kWMmdUpP" name="usecase_gerer_les_volumes">
-    <mxGraphModel dx="1422" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="u_hjm_F3H0AixgUSzF6P-0" />
         <mxCell id="u_hjm_F3H0AixgUSzF6P-1" parent="u_hjm_F3H0AixgUSzF6P-0" />
@@ -789,7 +789,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="FhCjP44LRGQQRx-N19te" name="usecase_duplicity_restore">
-    <mxGraphModel dx="2272" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2272" dy="825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="PMlcm3V3n_hOYNaDzGFI-0" />
         <mxCell id="PMlcm3V3n_hOYNaDzGFI-1" parent="PMlcm3V3n_hOYNaDzGFI-0" />
@@ -971,7 +971,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="zMngDvcwma3SCp9EZvXr" name="diagram_activity_parts">
-    <mxGraphModel dx="4212" dy="1891" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3972" dy="1925" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="BbT-HDJMjBwJf1ezDNln-0" />
         <mxCell id="BbT-HDJMjBwJf1ezDNln-1" parent="BbT-HDJMjBwJf1ezDNln-0" />
@@ -2059,7 +2059,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="diagram_activity_launch_shuttle" id="dnIbL5-KK0Yxz3tZqCzI">
-    <mxGraphModel dx="2272" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2272" dy="825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="EaJOgJ1g0coBMMm9YGOL-0" />
         <mxCell id="EaJOgJ1g0coBMMm9YGOL-1" parent="EaJOgJ1g0coBMMm9YGOL-0" />
