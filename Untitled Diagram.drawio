@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-24T07:58:52.286Z" agent="5.0 (Windows)" etag="hDzc1sRkHYlSeiisnAp0" version="13.3.1" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2020-06-24T07:58:59.256Z" agent="5.0 (Windows)" etag="AApWa_ZNxfn8T9Y2Ffsk" version="13.3.1" type="github" pages="10">
   <diagram id="aH4F3tKvDQe8ermNPX3X" name="global diagram">
     <mxGraphModel dx="1422" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2478,10 +2478,10 @@
           <mxGeometry x="250" y="340" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="5RDnFBLfmnXMj0vHeHHi-0" value="Schedule un backup" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="apTgxvAxGog2or_OKtOv-1">
-          <mxGeometry x="450" y="260" width="140" height="70" as="geometry" />
+          <mxGeometry x="510" y="240" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="5RDnFBLfmnXMj0vHeHHi-1" value="Créer une restauration" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="apTgxvAxGog2or_OKtOv-1">
-          <mxGeometry x="430" y="410" width="140" height="70" as="geometry" />
+          <mxGeometry x="460" y="400" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="5RDnFBLfmnXMj0vHeHHi-2" value="&amp;lt;&amp;lt;extends&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;" edge="1" parent="apTgxvAxGog2or_OKtOv-1" source="5RDnFBLfmnXMj0vHeHHi-0" target="tVVWTowzRzvCSUGQUJXs-7">
           <mxGeometry width="160" relative="1" as="geometry">
