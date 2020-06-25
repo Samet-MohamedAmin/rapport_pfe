@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-25T16:33:43.089Z" agent="5.0 (Windows)" etag="6uSXpkok1kUYE8aHLp54" version="13.3.4" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2020-06-25T16:35:55.037Z" agent="5.0 (Windows)" etag="woK8FHYYWlwGlEnxr-rP" version="13.3.4" type="github" pages="13">
   <diagram id="aH4F3tKvDQe8ermNPX3X" name="global diagram">
     <mxGraphModel dx="1422" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -5028,7 +5028,7 @@
         <mxCell id="iysXiBBWQKX4h7xrSlIc-0" />
         <mxCell id="iysXiBBWQKX4h7xrSlIc-1" parent="iysXiBBWQKX4h7xrSlIc-0" />
         <mxCell id="s9HDgEx8AAM_DsFAXcTd-2" value="Shuttle Client" style="shape=umlFrame;whiteSpace=wrap;html=1;connectable=0;width=90;height=30;" vertex="1" parent="iysXiBBWQKX4h7xrSlIc-1">
-          <mxGeometry x="120" y="480" width="640" height="200" as="geometry" />
+          <mxGeometry x="120" y="480" width="640" height="240" as="geometry" />
         </mxCell>
         <mxCell id="s9HDgEx8AAM_DsFAXcTd-1" value="Shuttle Studio" style="shape=umlFrame;whiteSpace=wrap;html=1;connectable=0;width=90;height=30;" vertex="1" parent="iysXiBBWQKX4h7xrSlIc-1">
           <mxGeometry x="120" y="120" width="641" height="320" as="geometry" />
@@ -5059,7 +5059,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tsXiApCWwaJJ5kw2WwCg-17" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.kshuttle.io/s/app/img/logo.svg;" vertex="1" parent="iysXiBBWQKX4h7xrSlIc-1">
-          <mxGeometry x="370" y="550" width="171.74" height="55" as="geometry" />
+          <mxGeometry x="347" y="550" width="156.14" height="50" as="geometry" />
         </mxCell>
         <mxCell id="tsXiApCWwaJJ5kw2WwCg-22" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;rotation=-90;" vertex="1" parent="iysXiBBWQKX4h7xrSlIc-1">
           <mxGeometry x="411" y="-25" width="45.05" height="575" as="geometry" />
