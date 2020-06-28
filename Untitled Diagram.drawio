@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-28T16:32:36.441Z" agent="5.0 (Windows)" etag="4rwCkdKo_3X4ZDwj5uwj" version="13.3.5" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2020-06-28T16:33:26.037Z" agent="5.0 (Windows)" etag="u0gLPXh0w7lt3PSgfbku" version="13.3.5" type="github" pages="14">
   <diagram id="aH4F3tKvDQe8ermNPX3X" name="global diagram">
     <mxGraphModel dx="1360" dy="831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1005,7 +1005,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="zMngDvcwma3SCp9EZvXr" name="diagram_activity_parts">
-    <mxGraphModel dx="5270" dy="1662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="7990" dy="3324" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="BbT-HDJMjBwJf1ezDNln-0" />
         <mxCell id="BbT-HDJMjBwJf1ezDNln-1" parent="BbT-HDJMjBwJf1ezDNln-0" />
@@ -1464,7 +1464,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tedhjKxLvhKSOX9k4whn-16" value="Diagramme activité Remplir les configurations shuttle" style="shape=umlFrame;whiteSpace=wrap;html=1;connectable=0;width=150;height=50;" parent="BbT-HDJMjBwJf1ezDNln-1" vertex="1">
-          <mxGeometry x="-2180" y="1265" width="720" height="550" as="geometry" />
+          <mxGeometry x="-2180" y="1265" width="720" height="535" as="geometry" />
         </mxCell>
         <mxCell id="tedhjKxLvhKSOX9k4whn-17" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" parent="BbT-HDJMjBwJf1ezDNln-1" vertex="1">
           <mxGeometry x="-1835" y="1295" width="30" height="30" as="geometry" />
@@ -1605,7 +1605,7 @@
           <mxGeometry x="-445" y="1710" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tedhjKxLvhKSOX9k4whn-98" value="Diagramme activité saisir un secret shuttle/postgresql" style="shape=umlFrame;whiteSpace=wrap;html=1;connectable=0;width=140;height=50;" parent="BbT-HDJMjBwJf1ezDNln-1" vertex="1">
-          <mxGeometry x="-1600" y="1880" width="670" height="710" as="geometry" />
+          <mxGeometry x="-1600" y="1880" width="640" height="720" as="geometry" />
         </mxCell>
         <mxCell id="tedhjKxLvhKSOX9k4whn-99" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" parent="BbT-HDJMjBwJf1ezDNln-1" vertex="1">
           <mxGeometry x="-1255" y="1910" width="30" height="30" as="geometry" />
@@ -1704,7 +1704,7 @@
           <mxGeometry x="-1305" y="2360" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tedhjKxLvhKSOX9k4whn-127" value="Diagramme activité saisir le secret licensekey" style="shape=umlFrame;whiteSpace=wrap;html=1;connectable=0;width=140;height=50;" parent="BbT-HDJMjBwJf1ezDNln-1" vertex="1">
-          <mxGeometry x="-850" y="1880" width="670" height="710" as="geometry" />
+          <mxGeometry x="-850" y="1880" width="670" height="720" as="geometry" />
         </mxCell>
         <mxCell id="tedhjKxLvhKSOX9k4whn-128" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" parent="BbT-HDJMjBwJf1ezDNln-1" vertex="1">
           <mxGeometry x="-505" y="1910" width="30" height="30" as="geometry" />
