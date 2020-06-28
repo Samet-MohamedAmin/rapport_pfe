@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-28T16:16:02.943Z" agent="5.0 (Windows)" etag="836bdEoi3keD9yxyNvTL" version="13.3.5" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2020-06-28T16:17:54.067Z" agent="5.0 (Windows)" etag="lKq6fmz6HplShDADV5hj" version="13.3.5" type="github" pages="14">
   <diagram id="aH4F3tKvDQe8ermNPX3X" name="global diagram">
     <mxGraphModel dx="1360" dy="831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -823,11 +823,11 @@
     </mxGraphModel>
   </diagram>
   <diagram id="FhCjP44LRGQQRx-N19te" name="usecase_duplicity_restore">
-    <mxGraphModel dx="3117" dy="1385" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2210" dy="831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="PMlcm3V3n_hOYNaDzGFI-0" />
         <mxCell id="PMlcm3V3n_hOYNaDzGFI-1" parent="PMlcm3V3n_hOYNaDzGFI-0" />
-        <mxCell id="dPG9StJnBAuNSzJ9k4_G-0" value="&lt;div&gt;UseCase Lancer application shuttle&lt;/div&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;width=150;height=40;connectable=0;" parent="PMlcm3V3n_hOYNaDzGFI-1" vertex="1">
+        <mxCell id="dPG9StJnBAuNSzJ9k4_G-0" value="&lt;div&gt;UseCase Lancer une restauration duplicity&lt;/div&gt;" style="shape=umlFrame;whiteSpace=wrap;html=1;width=150;height=40;connectable=0;" parent="PMlcm3V3n_hOYNaDzGFI-1" vertex="1">
           <mxGeometry x="-840" y="40" width="840" height="1040" as="geometry" />
         </mxCell>
         <mxCell id="dPG9StJnBAuNSzJ9k4_G-1" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;shadow=0;perimeterSpacing=0;strokeWidth=1;" parent="PMlcm3V3n_hOYNaDzGFI-1" vertex="1">
