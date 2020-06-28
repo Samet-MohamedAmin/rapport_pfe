@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-28T15:38:43.891Z" agent="5.0 (Windows)" etag="PAVTgUEX9Mb57ZfQ14DW" version="13.3.5" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2020-06-28T15:47:17.994Z" agent="5.0 (Windows)" etag="65KhRRJ4apiUgXbykSFs" version="13.3.5" type="github" pages="14">
   <diagram id="aH4F3tKvDQe8ermNPX3X" name="global diagram">
     <mxGraphModel dx="1360" dy="831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -508,13 +508,13 @@
           <mxGeometry x="630" y="350" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="_PAeCYjNmHklceX3oZXB-26" value="Gérer les objets Kubernetes" style="ellipse;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;" parent="_PAeCYjNmHklceX3oZXB-1" vertex="1">
-          <mxGeometry x="350" y="610" width="140" height="60" as="geometry" />
+          <mxGeometry x="340" y="690" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_PAeCYjNmHklceX3oZXB-27" value="Mettre à jour une application" style="ellipse;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;" parent="_PAeCYjNmHklceX3oZXB-1" vertex="1">
           <mxGeometry x="635" y="210" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="_PAeCYjNmHklceX3oZXB-28" value="Superviser l&#39;infrastructure" style="ellipse;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;" parent="_PAeCYjNmHklceX3oZXB-1" vertex="1">
-          <mxGeometry x="355" y="500" width="140" height="60" as="geometry" />
+          <mxGeometry x="370" y="615" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_PAeCYjNmHklceX3oZXB-29" value="Gérer les comptes utilisateurs" style="ellipse;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;" parent="_PAeCYjNmHklceX3oZXB-1" vertex="1">
           <mxGeometry x="540" y="850" width="200" height="60" as="geometry" />
@@ -592,22 +592,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Dx6kLYGh3iH3TKpjw4tb-4" value="Gérer les backups et les restauration" style="ellipse;whiteSpace=wrap;html=1;" parent="_PAeCYjNmHklceX3oZXB-1" vertex="1">
-          <mxGeometry x="325" y="690" width="170" height="65" as="geometry" />
-        </mxCell>
-        <mxCell id="Dx6kLYGh3iH3TKpjw4tb-5" value="" style="endArrow=none;html=1;" parent="_PAeCYjNmHklceX3oZXB-1" source="Dx6kLYGh3iH3TKpjw4tb-4" target="_PAeCYjNmHklceX3oZXB-22" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-210" y="550" as="sourcePoint" />
-            <mxPoint x="-160" y="500" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Dx6kLYGh3iH3TKpjw4tb-12" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;" parent="_PAeCYjNmHklceX3oZXB-1" source="Dx6kLYGh3iH3TKpjw4tb-4" target="_PAeCYjNmHklceX3oZXB-30" edge="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="-220" y="680" as="sourcePoint" />
-            <mxPoint x="-60" y="680" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="300" y="500" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="o6vcitdnqXayRasdwRDQ-3" value="Gérer les jobs" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="_PAeCYjNmHklceX3oZXB-1">
-          <mxGeometry x="360" y="390" width="140" height="70" as="geometry" />
+          <mxGeometry x="380" y="390" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="o6vcitdnqXayRasdwRDQ-4" value="" style="endArrow=none;html=1;" edge="1" parent="_PAeCYjNmHklceX3oZXB-1" source="_PAeCYjNmHklceX3oZXB-22" target="o6vcitdnqXayRasdwRDQ-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -619,6 +607,12 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="130" y="410" as="sourcePoint" />
             <mxPoint x="290" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o6vcitdnqXayRasdwRDQ-7" value="&amp;lt;&amp;lt;extends&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;endArrow=open;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;" edge="1" parent="_PAeCYjNmHklceX3oZXB-1" source="Dx6kLYGh3iH3TKpjw4tb-4" target="o6vcitdnqXayRasdwRDQ-3">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="210" y="670" as="sourcePoint" />
+            <mxPoint x="370" y="670" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
