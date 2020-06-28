@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-28T18:37:19.825Z" agent="5.0 (Windows)" etag="xz5RHmnc2kpeAfKttl3Q" version="13.3.5" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2020-06-28T18:54:07.523Z" agent="5.0 (Windows)" etag="folmz-jW1vXacNLbT9X1" version="13.3.5" type="github" pages="14">
   <diagram id="aH4F3tKvDQe8ermNPX3X" name="global diagram">
     <mxGraphModel dx="1360" dy="831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1005,7 +1005,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="zMngDvcwma3SCp9EZvXr" name="diagram_activity_parts">
-    <mxGraphModel dx="5270" dy="1662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4493" dy="1187" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="BbT-HDJMjBwJf1ezDNln-0" />
         <mxCell id="BbT-HDJMjBwJf1ezDNln-1" parent="BbT-HDJMjBwJf1ezDNln-0" />
@@ -1286,11 +1286,11 @@
         <mxCell id="tedhjKxLvhKSOX9k4whn-119" value="Sélectionner le secret" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="BbT-HDJMjBwJf1ezDNln-1" vertex="1">
           <mxGeometry x="-1550" y="2200" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tedhjKxLvhKSOX9k4whn-120" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="BbT-HDJMjBwJf1ezDNln-1" source="tedhjKxLvhKSOX9k4whn-119" target="tedhjKxLvhKSOX9k4whn-126" edge="1">
+        <mxCell id="tedhjKxLvhKSOX9k4whn-120" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;" parent="BbT-HDJMjBwJf1ezDNln-1" source="tedhjKxLvhKSOX9k4whn-119" target="tedhjKxLvhKSOX9k4whn-126" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1380" y="2430" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-1480" y="2380" />
+              <mxPoint x="-1480" y="2360" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1322,7 +1322,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tedhjKxLvhKSOX9k4whn-126" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffc0;strokeColor=#ff0000;" parent="BbT-HDJMjBwJf1ezDNln-1" vertex="1">
-          <mxGeometry x="-1305" y="2360" width="80" height="40" as="geometry" />
+          <mxGeometry x="-1305" y="2340" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tedhjKxLvhKSOX9k4whn-127" value="Diagramme activité saisir le secret licensekey" style="shape=umlFrame;whiteSpace=wrap;html=1;connectable=0;width=140;height=50;" parent="BbT-HDJMjBwJf1ezDNln-1" vertex="1">
           <mxGeometry x="-850" y="1880" width="670" height="720" as="geometry" />
@@ -1385,7 +1385,7 @@
         <mxCell id="tedhjKxLvhKSOX9k4whn-137" value="Sélectionner le secret licensekey" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="BbT-HDJMjBwJf1ezDNln-1" vertex="1">
           <mxGeometry x="-800" y="2200" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tedhjKxLvhKSOX9k4whn-138" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="BbT-HDJMjBwJf1ezDNln-1" source="tedhjKxLvhKSOX9k4whn-137" target="tedhjKxLvhKSOX9k4whn-144" edge="1">
+        <mxCell id="tedhjKxLvhKSOX9k4whn-138" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;" parent="BbT-HDJMjBwJf1ezDNln-1" source="tedhjKxLvhKSOX9k4whn-137" target="tedhjKxLvhKSOX9k4whn-144" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-630" y="2430" as="targetPoint" />
             <Array as="points">
