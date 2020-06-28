@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-06-28T17:00:40.677Z" agent="5.0 (Windows)" etag="bK3Ri_FufhehB2-U-oMZ" version="13.3.5" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2020-06-28T17:01:12.235Z" agent="5.0 (Windows)" etag="kTd4z3ZplerWqCAvC8xq" version="13.3.5" type="github" pages="14">
   <diagram id="aH4F3tKvDQe8ermNPX3X" name="global diagram">
     <mxGraphModel dx="1360" dy="831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2169,10 +2169,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EaJOgJ1g0coBMMm9YGOL-77" value="Remplir les configuration ingress" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="EaJOgJ1g0coBMMm9YGOL-1" vertex="1">
+        <mxCell id="EaJOgJ1g0coBMMm9YGOL-77" value="Remplir Namespace" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="EaJOgJ1g0coBMMm9YGOL-1" vertex="1">
           <mxGeometry x="69.98" y="680" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="EaJOgJ1g0coBMMm9YGOL-80" value="Remplir les configurations Shuttle" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="EaJOgJ1g0coBMMm9YGOL-1" vertex="1">
+        <mxCell id="EaJOgJ1g0coBMMm9YGOL-80" value="Remplir les configuration ingress" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="EaJOgJ1g0coBMMm9YGOL-1" vertex="1">
           <mxGeometry x="224.98" y="680" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="EaJOgJ1g0coBMMm9YGOL-82" value="" style="shape=line;html=1;strokeWidth=6;strokeColor=#ff0000;" parent="EaJOgJ1g0coBMMm9YGOL-1" vertex="1">
@@ -2293,7 +2293,7 @@
         <mxCell id="EaJOgJ1g0coBMMm9YGOL-113" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" parent="EaJOgJ1g0coBMMm9YGOL-1" vertex="1">
           <mxGeometry x="414.98" y="1030" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7sMlEQZAV83JC1RG9iBP-0" value="Remplir Namespace" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="EaJOgJ1g0coBMMm9YGOL-1">
+        <mxCell id="7sMlEQZAV83JC1RG9iBP-0" value="Remplir les configurations Shuttle" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="EaJOgJ1g0coBMMm9YGOL-1">
           <mxGeometry x="364.98" y="680" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7sMlEQZAV83JC1RG9iBP-1" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;" edge="1" parent="EaJOgJ1g0coBMMm9YGOL-1" source="7sMlEQZAV83JC1RG9iBP-0">
