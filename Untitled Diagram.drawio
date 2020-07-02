@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-07-02T16:06:41.800Z" agent="5.0 (Windows)" etag="fRE0rrWT2EYYWVjc5O4U" version="13.3.6" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2020-07-02T16:07:56.011Z" agent="5.0 (Windows)" etag="vAHjgBQ86GuvCGIM3EHn" version="13.3.6" type="github" pages="14">
   <diagram id="aH4F3tKvDQe8ermNPX3X" name="global diagram">
     <mxGraphModel dx="1422" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -157,8 +157,8 @@
       <root>
         <mxCell id="ddbl3lubvhu7MaIEkkaC-0" />
         <mxCell id="ddbl3lubvhu7MaIEkkaC-1" parent="ddbl3lubvhu7MaIEkkaC-0" />
-        <mxCell id="JcFxxWTVXXDisi_Q30_8-40" value="shuttle" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="ddbl3lubvhu7MaIEkkaC-1">
-          <mxGeometry x="2600" y="440" width="760" height="470" as="geometry" />
+        <mxCell id="JcFxxWTVXXDisi_Q30_8-40" value="Shuttle -Rancher 1.6" style="shape=umlFrame;whiteSpace=wrap;html=1;width=110;height=40;" vertex="1" parent="ddbl3lubvhu7MaIEkkaC-1">
+          <mxGeometry x="2610" y="481" width="760" height="430" as="geometry" />
         </mxCell>
         <mxCell id="JcFxxWTVXXDisi_Q30_8-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="ddbl3lubvhu7MaIEkkaC-1" source="JcFxxWTVXXDisi_Q30_8-21" target="JcFxxWTVXXDisi_Q30_8-8">
           <mxGeometry relative="1" as="geometry">
@@ -323,13 +323,13 @@
           <mxGeometry x="3175.59" y="535.75" width="24.39" height="20" as="geometry" />
         </mxCell>
         <mxCell id="JcFxxWTVXXDisi_Q30_8-27" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://openclipart.org/image/400px/svg_to_png/289209/1509226324.png;" vertex="1" parent="ddbl3lubvhu7MaIEkkaC-1">
-          <mxGeometry x="2670" y="529" width="150" height="75" as="geometry" />
+          <mxGeometry x="2746.67" y="520" width="150" height="75" as="geometry" />
         </mxCell>
         <mxCell id="JcFxxWTVXXDisi_Q30_8-28" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Docker.svg;" vertex="1" parent="ddbl3lubvhu7MaIEkkaC-1">
-          <mxGeometry x="2678" y="537" width="24.39" height="20" as="geometry" />
+          <mxGeometry x="2754.67" y="528" width="24.39" height="20" as="geometry" />
         </mxCell>
         <mxCell id="JcFxxWTVXXDisi_Q30_8-29" value="" style="shape=datastore;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;" vertex="1" parent="ddbl3lubvhu7MaIEkkaC-1">
-          <mxGeometry x="2730" y="541.5" width="40" height="47.5" as="geometry" />
+          <mxGeometry x="2806.67" y="532.5" width="40" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="JcFxxWTVXXDisi_Q30_8-33" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://openclipart.org/image/400px/svg_to_png/289209/1509226324.png;" vertex="1" parent="ddbl3lubvhu7MaIEkkaC-1">
           <mxGeometry x="2628" y="800" width="150" height="75" as="geometry" />
